@@ -1,0 +1,199 @@
+*{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    scroll-behavior: smooth;
+}
+#logo{
+    width: 80px;
+    height: 60px;
+    margin-left: 50px;
+}
+.navigation{
+    background-color: white;
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    z-index: 999;
+}
+.nav-item{
+    display: flex;
+    justify-content: space-between 30px;
+}
+#head{
+    height: 100vh;
+    background-image: url(../pages/brad-starkey-Bowrbqz1kgw-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+
+}
+.nav-items{
+    list-style: none;
+    margin-right: 40px;
+    display: flex;
+    width: 30%;
+    justify-content: space-between;
+    align-items: center;
+}
+#img{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+}
+.text-bg{
+color: black;
+size: 2.2em;
+}
+.main-text{
+    position: absolute;
+    top: 200px;
+    left: 800px;
+}
+.btn{
+    background-color: transparent;
+    border: solid 2px red;
+    width: 120px;
+    height: 40px;
+}
+#img1{
+    width: 300px;
+    height: 400px;
+    margin-left: 30px;
+}
+#h1{
+    text-decoration: underline black;
+    margin-top: 10px;
+    margin-left: 2px;
+}
+#div1{
+    width: 300px;
+}
+#h3{
+    margin-left: 135px;
+}
+#find{
+    margin-left: 280px;
+    font-size: 50px;
+}
+#p1{
+    width: 400px;
+    margin-left: 3px;
+}
+.btn2{
+    margin-left: 590px;
+    border-radius: 4px;
+    background-color: black;
+    color: white;
+    width: 120px;
+    height: 40px;
+}
+#img2{
+    width: 700px;
+    height: 600px;
+    margin-left: 70px;
+    margin-top: 50px;
+}
+#products{
+    height: 110vh;
+    display: flex;
+    background-color: white;
+}
+#div3{
+    width: 400px;
+    height: 400px;
+    background-color: white;
+}
+#img4{
+    width: 350px;
+    height: 300px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#pa1{
+    margin-left: 25px;
+    width: 360px;
+}
+#sec2{
+    display: flex;
+}
+#div5{
+    width: 700px;
+    height: 500px;
+    background-color: white;
+}
+#div6{
+    width: 1300px;
+    height: 80px;
+    background-color: black;
+}
+#btn3{
+    margin-left: 30px;
+    border-radius: 4px;
+    background-color: black;
+    color: white;
+    width: 90px;
+    height: 30px;
+}
+#btn4{
+    margin-left: 30px;
+    margin-top: 25px;
+    border-radius: 3px;
+    background-color: black;
+    color: white;
+    width: 90px;
+    height: 30px;
+}
+#btn5{
+    margin-left: 30px;
+    margin-top: 25px;
+    background-color: black;
+    color: white;
+    width: 90px;
+    height: 30px;
+}
+#btn6{
+    margin-left: 30px;
+    margin-top: 25px;
+    background-color: black;
+    color: white;
+    width: 90px;
+    height: 30px;
+}
+#btn7{
+    margin-left: 30px;
+    margin-top: 25px;
+    background-color: black;
+    color: white;
+    width: 160px;
+    height: 30px;
+}
+#btn8{
+    margin-left: 30px;
+    margin-top: 25px;
+    background-color: black;
+    color: white;
+    width: 160px;
+    height: 30px;
+}
+#btn9{
+    margin-left: 30px;
+    margin-top: 25px;
+    background-color: black;
+    color: white;
+    width: 90px;
+    height: 30px;
+}
+.BTn{
+    display: inline;
+    justify-content: space-around;
+}
+#Search{
+    width: 200px;
+    height: 50px;
+    display: inline;
+}
+
